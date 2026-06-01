@@ -1,0 +1,5 @@
+speechrecognition
+openai==0.28
+numpy
+pyaudio
+pyttsx3
